@@ -6,7 +6,6 @@
     <type fullname="Character_Set" preserve="all" />
     <type fullname="CharacterPartCatalog" preserve="all" />
     <type fullname="ClothPreset" preserve="all" />
-    <type fullname="Crystal.SafeArea" preserve="all" />
     <type fullname="Device_DataSO" preserve="all" />
     <type fullname="DialogueDataSO" preserve="all" />
     <type fullname="EpisodeDataSet" preserve="all" />
@@ -24,15 +23,11 @@
     <type fullname="TitleData" preserve="all" />
     <type fullname="UIGlobal" preserve="all" />
     <type fullname="UIGradient" preserve="all" />
-    <type fullname="UIPopup_OneButton" preserve="all" />
     <type fullname="UIScreen_HandGuide" preserve="all" />
     <type fullname="UIScreen_LoopAniLoading" preserve="all" />
     <type fullname="UIScreen_ProgressLoading" preserve="all" />
     <type fullname="UIScreen_ServerLoading" preserve="all" />
     <type fullname="UISound" preserve="all" />
-    <type fullname="UIWindow_MainScreen" preserve="all" />
-    <type fullname="UIWindow_TestOne" preserve="all" />
-    <type fullname="UIWindow_TestTwo" preserve="all" />
     <type fullname="UIWindow_TitleScreen" preserve="all" />
     <type fullname="VoiceKey" preserve="all" />
     <type fullname="CenterImage_DataRow" preserve="nothing" serialized="true" />
@@ -85,9 +80,6 @@
     <type fullname="UISound/Sheet" preserve="nothing" serialized="true" />
     <type fullname="VoiceKey/Param" preserve="nothing" serialized="true" />
     <type fullname="VoiceKey/Sheet" preserve="nothing" serialized="true" />
-  </assembly>
-  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -142,8 +134,6 @@
     <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
@@ -153,15 +143,10 @@
     <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
-    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
-    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
-    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
-    <type fullname="UnityEngine.UI.Mask" preserve="all" />
     <type fullname="UnityEngine.UI.RawImage" preserve="all" />
     <type fullname="UnityEngine.UI.Shadow" preserve="all" />
-    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
